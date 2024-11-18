@@ -2,6 +2,7 @@
 
 <h3>This Repo is included odd and even number and to find a prime number</h3>
 
+<hr>
 
 1. Odd and Even Number
 
@@ -15,7 +16,8 @@ output
 
 Even - 2 20 14 12 8 6 4 10 16 18 
 Odd - 3 7 15 9 5 1 11 19 17 13 
-
+<hr>
+<hr>
 2.FindPrimeNumber
 
 here to find prime inside an array using for loop.
